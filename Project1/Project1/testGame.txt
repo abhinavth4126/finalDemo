@@ -1,0 +1,20 @@
+Game: 1
+  
+Computer:
+   Score: 14
+   Color: Black 
+
+Human:
+   Score: 17
+   Color: White
+
+Dimension: 5
+
+Board:
+   BB  BB  BB  BB  BB  
+   BB  O  O  O  O
+   O  O  O  BB  O
+   WW  O  O  O  WW
+   WW  WW  WW  WW  WW  
+
+Next Player: Computer

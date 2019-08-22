@@ -1,0 +1,22 @@
+Game: 2
+
+Computer:
+	Score: 0
+	Color: White
+
+Human:
+	Score: -5
+	Color: Black
+
+Dimension: 7
+
+Board:
+	W  O  W  BB  W  W  W  
+	O  O  O  O  O  O  O  
+	O  O  O  O  O  O  O  
+	O  O  O  O  W  O  O  
+	O  O  B  O  O  O  O  
+	O  O  O  O  O  B  B  
+	O  B  B  WW  B  O  O  
+
+Next Player: Human
